@@ -1,0 +1,25 @@
+Claiming Rewards - XNET Docs
+XNET Solana Token Claim Walkthrough
+
+Why claim-based distribution?
+Claim-based distribution is generally considered to be superior to push-based distribution because it puts the timing of receiving tokens in your hands, which can be important for tax purposes. Claiming processes can also be created that will allow the recovery of unclaimed tokens in case access to the original recipient wallet is lost. XNET plans on using a claims-based distribution model going forward, though we may implement our own claiming program separate from Streamflow in the future.
+
+How to Claim Your Rewards Distribution
+Steps
+Step 1: Log into the StreamFlow Claim portal and connect your Solana Wallet to the site.
+Selected network: Solana
+Connect Crypto Wallet
+Connect your crypto wallet to start using the app.
+Supported wallets include: Phantom, Backpack, Magic Eden, Coinbase Wallet, Ledger, WalletConnect
+
+Step 2: After logging in, you will see your dashboard. On the left-hand side, select the "Airdrops" menu item to view your payout.
+
+Step 3: On the Airdrop page, if you have a payout distribution, you will see a box with the Epoch Name and an 'Eligible' label. To see the claim amount, click the Claim button.
+
+You can also view more information about the claim before proceeding by clicking on the "View" button.
+
+Claim View
+
+Step 1: Select View from the claim box.
+Step 2: This will take you to the View Dashboard for basic details about your claim.
+Step 3: Clicking View on this page will give you an even more detailed view of your claim.

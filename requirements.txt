@@ -1,0 +1,8 @@
+requests
+sentence-transformers
+faiss-cpu
+pyyaml
+python-dotenv
+PyPDF2
+beautifulsoup4
+ollama

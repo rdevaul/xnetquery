@@ -1,0 +1,81 @@
+The XNET Token - XNET Docs
+
+Overview
+As of September 2024, $XNET has successfully migrated to the Solana blockchain. $XNET is an SPL-Token 2022 with a maximum supply of 2,400,000,000 (two billion, four hundred million) deflationary tokens ($XNET).
+
+REVENUEE DYERVIEW
+CA: xNETbUB7cRb3AAu2pNG2pUwQcJ2BHcktfvSB8x1Pq6L
+$XNET is the native token of the XNET ecosystem, designed to facilitate the exchange of bandwidth resources between Node Operators (Producers) and Mobile Network Operators (Consumers). The $XNET token aims to incentivize sustainable growth and ensure long-term viability for all participants.
+
+REVENUE AND TOKEN BURN
+XNET will use 80% of all revenue generated from data to buy back and burn $XNET token from the open market, thus reducing the total supply over time.
+
+XNET TOKEN DISTRIBUTION
+INVESTOR AND INSIDER POOL (30%)
+- Accurate for 30% of the total supply.
+- Unlocking begins in January 2025 at a rate of 0.20% monthly, increasing to 1.5% per month from April 2025 criteria.
+FOUNDATION POOL (18%)
+- Unlocking started in September 2024.
+- Supports network governance, protocol development, and strategic initiatives.
+OPERATOR POOL (39%)
+- Token emissions to Operators are directly tied to data served and the expansion of the XNET core network.
+
+PROJECTED CIRCULATING SUPPLY OF $XNET (2024-2025)
+| YEAR | PROJECTED TOTAL EMISSIONS |
+|------|---------------------------|
+| 2024 | 78,378,538               |
+| 2025 | 142,239,328              |
+| 2026 | 238,804,008              |
+| 2027 | 368,983,908              |
+| 2028 | 573,910,064              |
+| 2029 | 816,637,536              |
+
+UNDERSTANDING FDV (FULLY DILUTED VALUATION) AND EMISSIONS
+Token emissions are directly tied to the growth of our network. As the network expands, tokens are distributed to reward node operators who provide valuable coverage. As more demand is met for our carrier partners (customers), a proportional amount of tokens are burned, reducing supply.
+
+As of September 21, 2043, approximately 65 million $XNET tokens were in circulation, representing ~3% of the total supply. These initial emissions occurred while the $XNET token was on Polygon before being bridged to its current home on Solana. Over a 10-year horizon, a maximum of 70% of XNET's supply (around 1.7 billion tokens) could be emitted, assuming exponential growth of the network. This emission schedule is directly linked to network growth, particularly for Node Operators and the XNET Foundation, which collectively account for 57% of the total allocation.
+
+maximum $XNET Emissions Over 10 Years
+Summary
+The combination of a robust long-term strategy and demand-focused mechanisms positions $XNET and the Foundation for dynamic, scalable, and sustainable growth. As the network deepens its integration with the Solana DePIN ecosystem, the token supply and emission schedules will be optimized to further reinforce our success.
+
+Economics
+For the XNET network to thrive, its economic model must benefit all participants. The $XNET Token serves as the bridge between two key groups:
+- Node Operators - individuals or businesses who build and maintain the network's physical infrastructure.
+- Mobile Network Operators (MNOs) - who pay to utilize the coverage created by these node operators.
+
+Node operators are rewarded in $XNET Tokens for their contributions, while MNOs, as the end-users of the XNET Network, pay for access through carrier offload services.
+Note
+MNOs exclusively settle payments in fiat currency, and the XNET Foundation acts as the critical link between the fiat world and the $XNET token economy. A majority of the offload revenue generated is used by the Foundation to purchase $XNET on the open market and burn it—slowly helping to further reduce the overall token supply.
+
+Large MNO buys roaming traffic from XNET MNO or Foundation
+The core economic function of the XNET Network.
+
+Tip
+Token rewards will require ongoing oversight and are likely to fluctuate over time. As the number of node operators grows and new technologies emerge, the XNET Foundation Working Group, in collaboration with community-made XIP proposals, will actively adjust emissions to ensure the network's sustainability as it continues to scale.
+
+U.S. / Canada Wi-Fi Operator Rewards Per Epoch (8/24-11/24)
+Wi-Fi Access Point Type          Base Rate per GB*
+XP6PRO Indoor | Alta Labs        50
+XP6 Outdoor | Alta Labs          50
+XR660 Indoor | Ruckus            80
+XT350 Outdoor | Ruckus           50
+XT750 Outdoor | Ruckus           80
+XV2 Long Range | Cambium         80
+Existing (Brownfield) Wi-Fi Conversions 50
+*Base Rate applies to all registered and verified APs on the XNET network according to APs class/performance.
+
+U.S. CBRS Operator Rewards Per Epoch (8/24-11/24)
+CBRS eNodeB Type                Blue Hexes  Gold Hexes
+FELIX* & LUCIUS* | Baicells Neutrino 430 and Nova 450  200  500
+Linus | Baicells 4360           750         2,000
+ROOFUS | Bing FW-300            1,500       4,000
+MAGNUS | Baicells Nova 846N     2,000       5,000
+*All Felix sales and new activations on the XNET network have been discontinued.
+**Lucius sales as well as Marconi conversions have been discontinued effectively. The deadline for all pending Lucius/Marconi conversions and registration to be completed is October 1, 2024.
+
+XNET will continue Marconi conversion program for larger (Linus, Roofus, and Magnus) radios for the time being. However, XNET reserves the right to temporarily pause or terminate new Marconi conversions for these radios at any time without notice. Please note that the legal owner of the radio must reset it to the latest factory firmware or deregister it from SAS prior to onboarding via Marconi GTW. XNET will not provide resetting or conversion assistance with third-parties.
+
+For CBRS radios only:
+- Radios achieving 50-75% uptime during an Epoch will qualify for 50% of the maximum total $XNET CV rewards for that period.
+- Radios that achieve 99.9% or higher uptime during an Epoch will qualify for an additional 10% bonus atop the maximum $XNET rewards they are eligible for in that Epoch.

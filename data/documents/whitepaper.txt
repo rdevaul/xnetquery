@@ -1,0 +1,253 @@
+XNET: THE FIRST BLOCKCHAIN-POWERED MOBILE CARRIER
+XNET Whitepaper • XNETWP-EN-0001-220928
+AUGUST 8TH, 2022
+
+TABLE OF CONTENTS
+Overview
+Mobile and Wireless Broadband Communications
+Mobile Network Operators (MNOs)
+Centralized vs. Decentralized Wireless Broadband Network
+XNET Decentralized Mobile Wireless Network
+Why the XNET Network is truly different
+XNET Nodes
+XNET Long-Range Nodes
+XNET Rovers
+XNET Short-Range Nodes
+XNET Network Validators
+Connectivity, Demand, and Connectivity Mining
+What is Connectivity?
+What is Demand?
+XNET Regions and Demand Zones
+Connectivity Mining
+Self Report
+Value at Stake
+Why Require Staking?
+How Does Staking work?
+Independent/Distributed Verification
+Self Nomination Explained
+XNET Economics
+XNET Token Basics
+XNET Token Issuance and Allocation
+Participants
+XNET Node Operators, or Enablers
+XNET Validators
+XNET Mobile Network Operator (XNETMNO)
+Simplified Economics
+Simplified Node Economics
+Coverage Zones
+Simplified Ecosystem Economics
+Simplified Economic Model
+More Complete Token Economic Model
+XNETD Data Tickets
+Why Code XNETD?
+Connectivity Pricing and XNETD
+XNET and XNETD
+XNETD and Network Data
+XNETD and Node Rewards
+XNET MNO Economics
+XNET Rewards Function
+XNET Node Economics
+XNET Validator Economics
+XNET Governance
+XNET Network Project Phasing
+Phase 0: Bootstrap and Proof of Concept
+Phase 1: Deployment of the Network in Key US Locations
+Phase 2: Extension of the Network to Wider North American Locations
+Phase 3: Global Deployment of the Network
+Legal Disclaimer
+
+OVERVIEW
+The United Nations consider connectivity to be a human right, yet many parts of the US and the world lack cost-effective, reliable mobile wireless service. This, despite the high value ( $\$ 300 B$ in the US alone) and robust, recession-proof economics of the mobile market. Despite rapidly growing demand for data, little has changed in the mobile wireless network industry in decades. We believe this is a sector ripe for disruption and positive change.
+
+XNET is a new approach to bringing true mobile wireless 5G connectivity to consumers and businesses using blockchain technology, Citizens Broadband Radio Service (CBRS) radio spectrum, and a community of network operators. Unlike traditional wireless networks that are dependent on wireless spectrum licenses and lots of expensive infrastructure, specifically various RAN (Radio Access Network/cell site) assets, XNET will own no spectrum and very little physical network infrastructure. And unlike Helium and other CBRS radio competitors, XNET will provide a full-service voice and data network, operating as a true MNO. XNET will enable a modern 4G and 5G wireless network using CBRS and any other available radio spectrum and will partner with a community of individuals and businesses who will own and operate XNET's wireless network infrastructure in return for crypto rewards.
+
+XNET will be deployed first in the United States, and then in many other countries around the world as CBRS spectrum becomes available and rulemaking is harmonized.
+
+A crypto-powered wireless network is not new. Helium has successfully demonstrated the viability of this type of network for low-data-rate, LoRaWAN applications, and is moving into 5G data services. However, operating a true mobile wireless network is a far more complex and technically demanding application. XNET combines lessons learned from its predecessors with a team deeply immersed in mobile wireless/cellular network technology and operations to create a new, radically more valuable enterprise.
+
+MOBILE AND WIRELESS BROADBAND COMMUNICATIONS
+We can't imagine modern life today without a mobile device being within our immediate reach. We expect our phones and tablets to be always connected and instantly available. We need this connection to be fast, secure and reliable, so how are we really connecting today? Although various technologies exist within the wireless ecosystem, it is largely dominated by mobile (4G/5G) and fixed wireless (Wi-Fi) broadband technologies. While Wi-Fi carries most of the wireless internet traffic due to its affordability and wide availability indoors, 4G and especially 5G connectivity represents a much more valuable and ever-growing market segment. This growth is driven by rapid development of video-rich applications, self-driving cars, industrial automation, remote monitoring and other advanced applications. The demand for secure, high speed / low latency mobile connectivity is accelerating and is now bigger than ever before.
+
+MOBILE NETWORK OPERATORS (MNOS)
+Over the last three decades, the mobile connectivity market in the United States has undergone a substantial consolidation and is now dominated by a small number of large Mobile Network Operators: AT\&T, Verizon and T-Mobile. These large operators are mostly focused on large, high ARPU, metropolitan markets, while small regional operators provide coverage in-between. Globally, the likes of Vodafone, Orange, Telefonica, China Mobile, Docomo and Softbank control the majority of their respective local markets, but also participate in many smaller markets around the world. Up until very recently, the mobile connectivity market was an exclusive domain that was tightly controlled by a small number of these large telecom companies. The barriers to entry, especially in large markets like the U.S, were extremely high, due to very high spectrum licensing and infrastructure deployment costs. These barriers made it nearly impossible for new entrants to succeed, even as legacy Mobile Network Operators (MNOs) spend billions of dollars annually on supporting and upgrading their existing network infrastructure. As demand for fast and reliable 5G connectivity is rapidly accelerating, MNOs are struggling to keep up with the demand.
+
+CENTRALIZED VS. DECENTRALIZED WIRELESS BROADBAND NETWORK
+Traditional mobile wireless networks, such as those operated by AT\&T, T-Mobile, etc., are highly centralized. These networks were designed and deployed at a time when such centralization was the only viable technical path. Centralization provides conceptual simplicity but also brittleness, and makes scaling such networks a costly challenge for providers. More importantly, centralized networks provide few mechanisms for users to improve the quality and coverage of their service, short of switching to another network provider or investing in costly signal boosting equipment. In fact, subscriber churn due to coverage issues is a big challenge for the mobile operators, with over one million people changing their mobile carriers every month for that exact reason.
+
+In contrast, the recent rise of blockchain technology has enabled a new class of decentralized applications, including decentralized communications networks and Web3 concepts. Decentralized networks can provide high levels of performance, ease of scalability, and robust security with few points of failure, possibilities enabled by inexpensive computation and the rise of the crypto economy that allows for new forms of incentives, value exchange, and social/technical organization.
+
+Unlike traditional centralized networks, the users and all other participants of decentralized networks actively contribute in their operation and are rewarded for deploying connectivity where it is the most needed and valuable.
+
+XNET DECENTRALIZED MOBILE WIRELESS NETWORK
+We have developed an approach to building a decentralized mobile wireless network that leverages the robustness and scalability provided by a progressively decentralized implementation that also seamlessly integrates into legacy LTE/KC mobile networks and network back-ends, adopting the Web3 concepts wherever practical.
+
+WHY THE XNET NETWORK IS TRULY DIFFERENT
+XNET has the following advantages compared to other projects that are attempting to build decentralized mobile networks using blockchain and CBRS technologies:
+
+Full Mobile Network Service Capability. Unlike Helium, Pollen and most Private LTE networks that are using CBRS and provide mobile data only, XNET will deliver a full spectrum of mobile network services including phone numbers, voice calls, SMS and e911 capability.
+
+The value of these traditional mobile services today cannot be underestimated. Although our smartphones need mobile data to connect to the internet, we can't use any essential government or business services without providing a valid phone number, which is then often used to receive authentication codes and passwords by SMS. Needless to say, we also need a cellular voice connection to place a 911 emergency call or in fact any call to a landline.
+
+Understanding the continuing importance of these services in a modern mobile network offering, we are integrating these features and capabilities into our network and blockchain architecture from the very beginning.
+
+Free Mobile Service. We believe that all XNET node operators should be able to use 5G data on the XNET mobile network free of charge. A node operator should further be able to subscribe to a full mobile service package, including a phone number for a nominal monthly fee paid in \$XNET. Moreover, in time, XNET intends to offer its community a seamless "roaming" on all partner networks, thus essentially significantly reducing or completely eliminating mobile service expenses for node operators and other XNET community members.
+
+Neutral Host Operator. XNET will be a "neutral host" mobile network built to seamlessly interconnect with other large and small mobile network operators, private LTE networks and roaming hubs. Given its focus on providing a full suite of mobile network services in areas where current operator coverage is insufficient or lacking completely, XNET's value proposition is superior to any randomly deployed "data only" network.
+
+Strategic Network Rollout. XNET fully controls its hardware supply and delivery logistics and does not intend to randomly deploy its network nodes in hopes of achieving higher network value through the total number of nodes in the field. Instead, nodes will be placed first in strategically important locations where demand for connectivity is high and current coverage is bad or non-existent.
+
+Furthermore, the number of nodes per coverage area will be strictly limited and balanced, in order to ensure sustainable and attractive mining rewards for the node operators, while providing the highest quality of service possible to network users.
+
+XNET NODES
+Each XNET node acts as an autonomous network entity, with the ensemble of XNET nodes acting like a federation of networks coordinating through a common blockchain-based ledger.
+
+XNET nodes perform a radio function, a network core function, and a blockchain function. In the most common configuration, the network function and blockchain function are combined in a device called the XNET core, which connects to a single local eNodeB radio device.
+
+XNET Nodes coordinate with each other in a distributed way and collectively implement the XNET network. All XNET nodes coordinate with each other and the SAS (spectrum access system) to ensure responsible sharing of the CBRS spectrum.
+
+XNET LONG-RANGE NODES
+XNET long-range nodes are installed on rooftops or in other elevated locations that facilitate a relatively large coverage area. XNET long-range nodes typically employ 3 to 8 antenna sectors and may use wired or a dedicated wireless backhaul, depending on the location. Long-range nodes may be owned and operated by anyone, but require installation or validation by a Certified Professional Installer.
+
+XNET ROVERS
+The XNET Rover is a trailer-mounted, long-range node optimized for rapid deployment and self-contained operation. XNET Rovers are used to rapidly provide coverage in new service areas and to provide fill-in coverage in the wake of a natural disaster or other major disruption. XNET Rovers are owned, deployed, and operated by XNET.
+
+XNET SHORT-RANGE NODES
+XNET short-range nodes are typically installed inside a residence or facility, operate at relatively low power and use a single antenna sector. Short-range nodes use Ethernet or wireless meshing for backhaul. Like long-range nodes, short-range nodes can be owned and operated by anyone. Unlike long-range nodes, short-range nodes do not require professional installation. However, these nodes are otherwise functionally identical to long-range nodes.
+
+XNET NETWORK VALIDATORS
+XNET Network Validators are network clients that strengthen the XNET network by sending challenges to XNET nodes at unpredictable times and locations. XNET nodes also act as validators, challenging their neighbors, and there will also be an XNET mobile app that will, among other functions, provide network validation and reward the user through connectivity mining rewards.
+
+CONNECTIVITY, DEMAND, AND CONNECTIVITY MINING
+An essential feature of the XNET network is connectivity mining, which is the process by which the XNET network is organized and individual node operators and validators are rewarded. Just as some blockchains use a proof-of-work algorithm to maintain the integrity of the ledger and reward miners, XNET uses a proof-of-connectivity algorithm to do the same thing.
+
+WHAT IS CONNECTIVITY?
+We all intuitively understand connectivity to some degree and can relate to the experience of having or not having high-quality connectivity. However, "under the hood" connectivity is the product of a number of independent factors. For wireless networks providing a certain class of service, connectivity can be defined by coverage, capacity (bandwidth and number of simultaneous connections), latency, and uptime or reliability metrics. In wireless networking, the quality of connectivity isn't solely dictated by the wireless network, but also the wired or wireless backhaul network utilized to get traffic to and from the individual wireless nodes.
+
+XNET operationalizes connectivity by metrics of coverage, capacity, and quality (a concept that combines reliability, latency, and some network topology metrics), which all play an important role in the end-user experience of connectivity. For the purpose of this discussion, you can imagine that XNET turns the multivariate, nuanced connectivity factors of a node into a convex, real-valued function, with higher scores representing better connectivity.
+
+XNET's mission is to provide high-quality connectivity for everyone, and to do that we need to incentivize the creation of high-quality connectivity that serves the needs of end-users. Connectivity that supports greater amounts of paid network traffic is more valuable than connectivity that supports lesser amounts. Hence, the value of connectivity increases with demand, and two locations with identical connectivity scores but different demand might end up with different values assigned to that connectivity product.
+
+WHAT IS DEMAND?
+Demand is not a connectivity property, though it can influence the quality of a given connection when capacity limits are approached. Rather, demand is an external factor that lets us assign a value to connectivity.
+
+Intuitively, consider two nodes that offer the same connectivity (the same coverage, capacity, reliability, and quality) but see very different levels of demand, e.g., a node in a busy urban center vs. a node in a quiet rural setting. These nodes might be technically the same in terms of what they offer, yet provide very different levels of value to XNET network clients and the network as a whole.
+
+XNET operationalizes demand as a measure of the total value of the data flowing through a node over a period of time combined with the total number of clients served. The accounting is done through a special semi-fungible data accounting token, or XNETD.
+
+XNET REGIONS AND DEMAND ZONES
+Not all demand is created equal - because different markets place different value on connectivity, the rewards for providing service in a high-value market might be greater than the rewards for providing service in a lower value market. Likewise, the value of connectivity might vary by time of day, or even season of the year.
+
+CONNECTIVITY MINING
+The XNET connectivity mining algorithm utilizes a combination of self-report, staking, and independent/distributed verification to ensure that XNET nodes and validators are fair actors.
+
+Self Report
+Nodes and validators periodically record metrics and compute hashes of network metadata which will be shared via IPFS and the blockchain. This data will be used in a staking challenge process to determine the eligibility of nodes/validators for rewards.
+
+Value at Stake
+WHY REQUIRE STAKING?
+In order to ensure the fairness and smooth operation of the XNET network, it is necessary to impose costs for bad behavior. For example, a bad actor might attempt to steal value from the network by using a GPS spoofer to make an XNET node in one location appear to be in another location.
+
+HOW DOES STAKING WORK?
+All participants in the XNET network must stake value to participate in connectivity mining. Nodes and validators will be ineligible to receive rewards above some fraction (say, 1/10th) of their stake during a given staking epoch.
+
+Independent/Distributed Verification
+At the heart of connectivity mining is the concept of nodes and validators self-nominating to challenge and validate other network participants at unpredictable times and locations. These signed challenges will require signed responses from adjacent XNET nodes, the results of which are logged to the blockchain.
+
+SELF NOMINATION EXPLAINED
+Self nomination is key to the security of the XNET network. If it were possible to predict which node might self-nominate for a challenge, verification, or rewards issuance, it might be possible to issue bogus rewards or invalidate the stake of legitimate XNET participants.
+
+XNET ECONOMICS
+In order for the XNET network to operate, the economics must work for all participants. This means that the value of the data being served must be higher than the costs to node operators and other members of the network ecosystem.
+
+XNET TOKEN BASICS
+$XNET is a true utility token, converting to network data credits. $XNET is issued to operators for running XNET nodes, in proportion to data served to wireless clients, value of the local market, and network state/validation services. Individuals and organizations will pay for network services in $XNET. Mobile Network Operators will pay XNET in USD or other FIAT currency in arrears for data consumed by their subscribers and these FIAT payments will be used to burn proportional numbers of $XNET.
+
+XNET TOKEN ISSUANCE AND ALLOCATION
+There will be a total max supply of 24,000,000,000 (twenty-four billion) deflationary XNET tokens ($XNET). These tokens will be issued gradually over time and be allocated according to the breakdown below:
+- Foundation Pool - 4,320,000,000 tokens (18%)
+- Ecosystem Pool - 3,120,000,000 tokens (13%)
+- Operator Pool - 9,360,000,000 tokens (39%)
+- Investor Pool - 3,600,000,000 billion tokens (15%)
+- Insider Pool - 3,600,000,000 tokens (15%)
+
+PARTICIPANTS
+XNET Node Operators, or Enablers
+XNET Enablers, along with Validators, form the backbone of the XNET network. Enablers operate XNET nodes, without which there would be no wireless network.
+
+XNET Validators
+Validators help validate and secure the XNET network by challenging nodes to prove coverage and network quality.
+
+XNET Mobile Network Operator (XNETMNO)
+XNETMNO, or XNET Inc, is the company that provides back-end services to the federated XNET network.
+
+SIMPLIFIED ECONOMICS
+Demand for fast and reliable mobile connectivity, globally and especially in the U.S., continues to grow at a rapid pace. The average monthly mobile data consumption in North America is forecasted to grow from 14 GB in 2021 to 52 GB in 2027.
+
+Simplified Node Economics
+Imagine that the price of 4G/5G wireless data usage in a wholesale market is $\$ 1/GB$, and the all-in costs to a node operator to serve that data is $\$ 0.10/GB$.
+
+Coverage Zones
+XNET nodes will be distributed within three main coverage zones: high-density Urban, Suburban areas around big cities, and Rural, remote areas currently lacking reliable cellular coverage.
+
+Simplified Ecosystem Economics
+The node operator isn't the only one with expenses - the XNET Network is supported by numerous agents who provide services and who must be rewarded.
+
+Simplified Economic Model
+Imagine that an operator buys 1 GB of data from the XNET Mobile Network Operator for \$1. This \$1 is divided and used to cover several costs.
+
+MORE COMPLETE TOKEN ECONOMIC MODEL
+The simplified model above doesn't cover the new issuance of \$XNET, the change in value of \$XNET with respect to data pricing, or different data pricing in different markets and coverage zones. To address this aspect, we will introduce a somewhat more complex economic model and a new token, the XNETD.
+
+XNETD Data Tickets
+The XNETD is a semi-fungible accounting token used to pay for data services on the XNET network. Unlike XNET, which is a universal fungible token that does not expire, XNETD tokens are coded to restrict their negotiability.
+
+CONNECTIVITY PRICING AND XNETD
+XNET assigns nodes into regions, such as a state, territory, or large urban center. Within regions, the XNET backend assigns nodes to geographically contiguous zones based on demand.
+
+XNET and XNETD
+The only source for new XNETD is by means of a one-way conversion from XNET via smart contract with price oracle.
+
+XNETD and Network Data
+Data that flows through XNET nodes is billed against XNETD, which is then burned.
+
+XNETD and Node Rewards
+XNET nodes are rewarded with XNET in proportion to the quantity of XNETD they burn, adjusted by region and zone pricing.
+
+XNET MNO Economics
+The XNET MNO will purchase XNET on the market and burn it to XNETD, offering the resulting data credits to other MNOs or consumer subscribers in return for dollars.
+
+XNET Rewards Function
+The XNET Rewards Function determines the reward in XNET granted to a nominally-functioning node or validator at the end of a staking epoch.
+
+XNET Node Economics
+XNET will not be successful if the economics do not work for our node operators. That means that an operator must be able to mine connectivity profitably.
+
+XNET Validator Economics
+Both XNET nodes and dedicated-purpose mobile clients will act as network validators.
+
+XNET GOVERNANCE
+The XNET project began as XNET, Inc - a private, closely held US corporation, governed by a board and led by a group of telecom experts, engineers, and innovation professionals.
+
+XNET NETWORK PROJECT PHASING
+PHASE 0: BOOTSTRAP AND PROOF OF CONCEPT
+This phase of operations started in early 2022 and included various tasks expected to be completed in September 2022.
+
+PHASE 1: DEPLOYMENT OF THE NETWORK IN KEY US LOCATIONS
+This phase will start in June 2022 with the launch of the XNET website and hardware provisioning.
+
+PHASE 2: EXTENSION OF THE NETWORK TO WIDER NORTH AMERICAN LOCATIONS
+This phase will start in 2023 and focus on extending the network to a much wider set of locations within North America.
+
+PHASE 3: GLOBAL DEPLOYMENT OF THE NETWORK
+This phase will start in late 2023 and focus on extending the network to global locations.
+
+LEGAL DISCLAIMER
+Not An Offer. This XNET Whitepaper is designed for general information purposes only and does not constitute a prospectus or financial service offering document.
+
+Not A Contract. The information shared in this Whitepaper is not all-encompassing or comprehensive and does not in any way intend to create or put into implicit effect any elements of a contractual relationship.
+
+Utility Tokens. \$XNET (XNET tokens) are pure utility tokens, meant to be exchanged for mobile connectivity credits and used within the XNET ecosystem only.
+
+No Representations Or Warranties. No representations or warranties have been made to the recipients of this Whitepaper or its advisers as to the accuracy or completeness of the information.
+
+Note On Forward-looking Statements. This Whitepaper contains certain forward-looking statements regarding the business we operate that are based on the belief of XNET Inc.
