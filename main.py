@@ -7,7 +7,7 @@ from interfaces.terminal import run_terminal_interface
 from utils.logger import logger
 
 def main():
-    logger.info("Initializing XNET Converse...")
+    logger.info("Initializing XNET query...")
     
     # Setup LLM
     llm = get_llm_client()
